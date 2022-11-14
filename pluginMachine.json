@@ -1,0 +1,21 @@
+{
+    "slug": "three-object-viewer-three-icosa",
+    "pluginId": 357,
+    "buildId": 386,
+    "entryPoints": {
+        "adminPages": [],
+        "blocks": []
+    },
+    "buildIncludes": [
+        "three-object-viewer-three-icosa.php",
+        "readme.txt",
+        "php",
+        "vendor",
+        "build",
+        "inc"
+    ],
+    "buildSteps": {
+        "dev": [],
+        "prod": []
+    }
+}
