@@ -2,7 +2,7 @@
 
 [![Built With Plugin Machine](https://img.shields.io/badge/Built%20With-Plugin%20Machine-lightgrey)](https://pluginmachine.com)
 
-## Installation
+## Installation - NOTE THIS README IS FOR LOCAL DEVELOPMENT. For instructions about installing the plugin visit: https://3ov.xyz/openbrush-support/ 
 
 - Git clone:
     - `git clone git@github.com:antpb/three-object-viewer-three-icosa.git`
